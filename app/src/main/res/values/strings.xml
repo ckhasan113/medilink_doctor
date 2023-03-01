@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DoctorVendorApp</string>
+
+    <string name="required_field">This field is required</string>
+
+    <string-array name="degree">
+        <item>Degree</item>
+        <item>M.B.B.S</item>
+        <item>F.C.P.S</item>
+        <item>AFR.C.P.S</item>
+    </string-array>
+
+    <string-array name="speciality_id">
+        <item>Speciality</item>
+        <item>Cardiology</item>
+        <item>Skin care</item>
+        <item>Cardiology</item>
+    </string-array>
+
+</resources>
